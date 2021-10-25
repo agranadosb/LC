@@ -1,0 +1,2637 @@
+Text language is: es
+
+A_través_de a_través_de SP 
+la el DA0FS0 
+tarde tarde NCFS000 15166191-n:0/15166462-n:0/15167027-n:0/15167349-n:0/15167474-n:0/15167906-n:0/15268094-n:0
+color color NCMS000 03072056-n:0/04677952-n:0/04956594-n:0/04975122-n:0/04988478-n:0/14984973-n:0/14985383-n:0
+de de SP 
+oro oro NCMS000 13353446-n:0/13371760-n:0/14638799-n:0
+el el DA0MS0 
+agua agua NCCS000 01646388-n:0/04562658-n:0/07935504-n:0/09225146-n:0/14845743-n:0/14847357-n:0/15008607-n:0
+nos nos PP1CP00 
+lleva llevar VMIP3S0 00047610-v:0/00047745-v:0/00050652-v:0/00052374-v:0/00075021-v:0/00135857-v:0/00173338-v:0/00539546-v:0/00771632-v:0/00777522-v:0/01061320-v:0/01101571-v:0/01218084-v:0/01241881-v:0/01408760-v:0/01432601-v:0/01433294-v:0/01434140-v:0/01449974-v:0/01452255-v:0/01601234-v:0/01746359-v:0/01957107-v:0/01999798-v:0/02077656-v:0/02079933-v:0/02116980-v:0/02208118-v:0/02233195-v:0/02267989-v:0/02280132-v:0/02285392-v:0/02445509-v:0/02686471-v:0/02686625-v:0/02700867-v:0/02717102-v:0
+sin sin SP 
+esfuerzo esfuerzo NCMS000 00621627-n:0/00624553-n:0/00786195-n:0/00788766-n:0/00788973-n:0/00796886-n:0
+por por SP 
+nuestra nuestro DP1FSP 
+parte parte NCCS000 00720565-n:0/01085098-n:0/03390207-n:0/03892891-n:0/04164989-n:0/05671974-n:0/05852973-n:0/05867413-n:0/05929008-n:0/06392001-n:0/06682290-n:0/07030718-n:0/07220466-n:0/08630039-n:0/09222051-n:0/09385911-n:0/09428741-n:0/10402824-n:0/13086908-n:0/13285176-n:0/13285973-n:0/13286524-n:0/13289159-n:0/13809207-n:0/15257829-n:0
+, , Fc 
+pues pues CS 
+los el DA0MP0 
+que que PR0CN00 
+empujan empujar VMIP3P0 00765649-v:0/01447632-v:0/01584701-v:0/01871680-v:0/01871979-v:0/01872645-v:0/01872877-v:0/01914453-v:0/02046441-v:0/02056466-v:0/02057337-v:0/02062212-v:0/02713852-v:0
+los el DA0MP0 
+remos remo NCMP000 00445351-n:0/03837422-n:0/03873416-n:0/09556580-n:0
+son ser VSIP3P0 02445925-v:0/02603699-v:0/02604760-v:0/02616386-v:0/02620587-v:0/02664769-v:0/02745332-v:0/02749904-v:0
+unos uno DI0MP0 
+brazos brazo NCMP000 02464965-n:0/02737660-n:0/02737833-n:0/05563770-n:0
+infantiles infantil AQ0CP00 01492394-a:0/01492907-a:0/01493016-a:0/01648189-a:0/02272047-a:0/02748837-a:0
+que que PR0CN00 
+intentan intentar VMIP3P0 00708538-v:0/01651293-v:0/02530167-v:0
+, , Fc 
+con con SP 
+sus su DP3CPN 
+manitas manita NCFP000 
+guiar guiar VMN0000 01212230-v:0/01930874-v:0/01931768-v:0/01933305-v:0/01999798-v:0/02000547-v:0/02159427-v:0/02436349-v:0/02439732-v:0/02550168-v:0
+el el DA0MS0 
+curso curso NCMS000 00038262-n:0/00884466-n:0/08238463-n:0/08377085-n:0/08461595-n:0/08679972-n:0/08681222-n:0/09387222-n:0/09475179-n:0/13827426-n:0
+de de SP 
+nuestra nuestro DP1FSP 
+barca barca NCFS000 02792552-n:0/02858304-n:0/04244997-n:0
+. . Fp 
+
++grup-verb_[
+  grup-sp_[
+    +prep_[
+      +(A_través_de a_través_de SP)
+    ]
+    sn_[
+      espec-fs_[
+        +j-fs_[
+          +(la el DA0FS0)
+        ]
+      ]
+      +grup-nom-fs_[
+        +n-fs_[
+          +(tarde tarde NCFS000)
+        ]
+        n-ms_[
+          +(color color NCMS000)
+        ]
+      ]
+      sp-de_[
+        +(de de SP)
+        sn_[
+          +grup-nom-ms_[
+            +n-ms_[
+              +(oro oro NCMS000)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  sn_[
+    espec-ms_[
+      +j-ms_[
+        +(el el DA0MS0)
+      ]
+    ]
+    +grup-nom-ms_[
+      +n-ms_[
+        +(agua agua NCCS000)
+      ]
+    ]
+  ]
+  patons_[
+    +paton-p_[
+      +(nos nos PP1CP00)
+    ]
+  ]
+  +grup-verb_[
+    +verb_[
+      +(lleva llevar VMIP3S0)
+    ]
+  ]
+  grup-sp_[
+    +prep_[
+      +(sin sin SP)
+    ]
+    sn_[
+      +grup-nom-ms_[
+        +n-ms_[
+          +(esfuerzo esfuerzo NCMS000)
+        ]
+      ]
+    ]
+  ]
+  grup-sp_[
+    +prep_[
+      +(por por SP)
+    ]
+    sn_[
+      espec-fs_[
+        +pos-fs_[
+          +(nuestra nuestro DP1FSP)
+        ]
+      ]
+      +grup-nom-fs_[
+        +n-fs_[
+          +(parte parte NCCS000)
+        ]
+      ]
+    ]
+  ]
+  Fc_[
+    +(, , Fc)
+  ]
+  subord_[
+    +(pues pues CS)
+    grup-verb_[
+      relativa_[
+        relatiu-sn_[
+          espec-mp_[
+            +j-mp_[
+              +(los el DA0MP0)
+            ]
+          ]
+          +(que que PR0CN00)
+        ]
+        +verb_[
+          +(empujan empujar VMIP3P0)
+        ]
+        sn_[
+          espec-mp_[
+            +j-mp_[
+              +(los el DA0MP0)
+            ]
+          ]
+          +grup-nom-mp_[
+            +n-mp_[
+              +(remos remo NCMP000)
+            ]
+          ]
+        ]
+      ]
+      +verb_[
+        +(son ser VSIP3P0)
+      ]
+      sn_[
+        espec-mp_[
+          +indef-mp_[
+            +(unos uno DI0MP0)
+          ]
+        ]
+        +grup-nom-mp_[
+          +n-mp_[
+            +(brazos brazo NCMP000)
+          ]
+          s-a-mp_[
+            +a-mp_[
+              +(infantiles infantil AQ0CP00)
+            ]
+          ]
+        ]
+        relativa_[
+          relatiu-sn_[
+            +(que que PR0CN00)
+          ]
+          +verb_[
+            +(intentan intentar VMIP3P0)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc_[
+    +(, , Fc)
+  ]
+  grup-sp_[
+    +prep_[
+      +(con con SP)
+    ]
+    sn_[
+      espec-fp_[
+        +pos-fp_[
+          +(sus su DP3CPN)
+        ]
+      ]
+      +grup-nom-fp_[
+        +n-fp_[
+          +(manitas manita NCFP000)
+        ]
+      ]
+    ]
+  ]
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(guiar guiar VMN0000)
+        ]
+      ]
+    ]
+    sn_[
+      espec-ms_[
+        +j-ms_[
+          +(el el DA0MS0)
+        ]
+      ]
+      +grup-nom-ms_[
+        +n-ms_[
+          +(curso curso NCMS000)
+        ]
+      ]
+      sp-de_[
+        +(de de SP)
+        sn_[
+          espec-fs_[
+            +pos-fs_[
+              +(nuestra nuestro DP1FSP)
+            ]
+          ]
+          +grup-nom-fs_[
+            +n-fs_[
+              +(barca barca NCFS000)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp)
+  ]
+]
+grup-verb/top/(lleva llevar VMIP3S0) [
+  patons/mphes/(nos nos PP1CP00)
+  grup-sp/adjt/(A_través_de a_través_de SP) [
+    sn/comp/(tarde tarde NCFS000) [
+      espec-fs/spec/(la el DA0FS0)
+      n-ms/mod/(color color NCMS000)
+      sp-de/mod/(de de SP) [
+        sn/comp/(oro oro NCMS000)
+      ]
+    ]
+  ]
+  sn/subj/(agua agua NCCS000) [
+    espec-ms/spec/(el el DA0MS0)
+  ]
+  grup-sp/pobj/(sin sin SP) [
+    sn/comp/(esfuerzo esfuerzo NCMS000)
+  ]
+  grup-sp/pobj/(por por SP) [
+    sn/comp/(parte parte NCCS000) [
+      espec-fs/spec/(nuestra nuestro DP1FSP)
+    ]
+  ]
+  Fc/punc/(, , Fc)
+  subord/dobj/(pues pues CS) [
+    grup-verb/comp/(son ser VSIP3P0) [
+      relativa/subj/(empujan empujar VMIP3P0) [
+        relatiu-sn/subj/(que que PR0CN00) [
+          espec-mp/spec/(los el DA0MP0)
+        ]
+        sn/dobj/(remos remo NCMP000) [
+          espec-mp/spec/(los el DA0MP0)
+        ]
+      ]
+      sn/attr/(brazos brazo NCMP000) [
+        espec-mp/spec/(unos uno DI0MP0)
+        s-a-mp/mod/(infantiles infantil AQ0CP00)
+        relativa/mod/(intentan intentar VMIP3P0) [
+          relatiu-sn/subj/(que que PR0CN00)
+        ]
+      ]
+    ]
+  ]
+  Fc/punc/(, , Fc)
+  grup-sp/pobj/(con con SP) [
+    sn/comp/(manitas manita NCFP000) [
+      espec-fp/spec/(sus su DP3CPN)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(guiar guiar VMN0000) [
+    sn/dobj/(curso curso NCMS000) [
+      espec-ms/spec/(el el DA0MS0)
+      sp-de/mod/(de de SP) [
+        sn/comp/(barca barca NCFS000) [
+          espec-fs/spec/(nuestra nuestro DP1FSP)
+        ]
+      ]
+    ]
+  ]
+  F-term/punc/(. . Fp)
+]
+Pero pero CC 
+, , Fc 
+¡ ¡ Faa 
+las el DA0FP0 
+tres 3 Z 
+son ser VSIP3P0 02445925-v:0/02603699-v:0/02604760-v:0/02616386-v:0/02620587-v:0/02664769-v:0/02745332-v:0/02749904-v:0
+muy muy RG 00014285-r:0/00015135-r:0
+crueles cruel AQ0CP00 00788268-a:0/01158020-a:0/01263013-a:0/01365544-a:0/01373728-a:0/01508086-a:0
+! ! Fat 
+
++coor-vb_[
+  +(Pero pero CC)
+  Fc_[
+    +(, , Fc)
+  ]
+  grup-verb_[
+    F-no-c_[
+      +(¡ ¡ Faa)
+    ]
+    sn_[
+      espec-fp_[
+        +j-fp_[
+          +(las el DA0FP0)
+        ]
+      ]
+      +numero_[
+        +(tres 3 Z)
+      ]
+    ]
+    +verb_[
+      +(son ser VSIP3P0)
+    ]
+    s-adj_[
+      sadv_[
+        +(muy muy RG)
+      ]
+      +s-a-mp_[
+        +a-mp_[
+          +(crueles cruel AQ0CP00)
+        ]
+      ]
+    ]
+    F-term_[
+      +(! ! Fat)
+    ]
+  ]
+]
+coor-vb/top/(Pero pero CC) [
+  Fc/punc/(, , Fc)
+  grup-verb/coor/(son ser VSIP3P0) [
+    F-no-c/punc/(¡ ¡ Faa)
+    sn/subj/(tres 3 Z) [
+      espec-fp/spec/(las el DA0FP0)
+    ]
+    s-adj/attr/(crueles cruel AQ0CP00) [
+      sadv/spec/(muy muy RG)
+    ]
+    F-term/punc/(! ! Fat)
+  ]
+]
+ya_que ya_que CS 
+sin sin SP 
+fijar fijar VMN0000 00486998-v:0/00722232-v:0/00947077-v:0/01021629-v:0/01340439-v:0/01343892-v:0/01570403-v:0/01591621-v:0/01647543-v:0
+se se PP3CN00 
+en en SP 
+el el DA0MS0 
+apacible apacible AQ0CS00 00302951-a:0/00438332-a:0/01134486-a:0/01272176-a:0
+tiempo tiempo NCMS000 00028270-n:0/06329506-n:0/11524662-n:0/15122231-n:0/15135822-n:0/15224692-n:0/15246353-n:0/15264363-n:0/15270431-n:0
+ni ni CC 
+en en SP 
+el el DA0MS0 
+ensueño ensueño NCMS000 05769471-n:0
+de de SP 
+la el DA0FS0 
+hora hora NCFS000 05131023-n:0/08385009-n:0/15116910-n:0/15118100-n:0/15129927-n:0/15225249-n:0/15227846-n:0/15228378-n:0/15228910-n:0/15245515-n:0/15270431-n:0
+presente presente AQ0CS00 01731351-a:0/01846413-a:0
+, , Fc 
+¡ ¡ Faa 
+exigen exigir VMIP3P0 00754942-v:0/00756338-v:0/01017826-v:0/01018065-v:0/02627934-v:0/02635547-v:0
+una uno DI0FS0 
+historia historia NCFS000 06155567-n:0/06156752-n:0/06369829-n:0/06514093-n:0/06681551-n:0/06756831-n:0/06757057-n:0/07220773-n:0/15121406-n:0/15123996-n:0
+de de SP 
+una uno DI0FS0 
+voz voz NCFS000 04981941-n:0/05202284-n:0/06872122-n:0/07030718-n:0/07110615-n:0/07223450-n:0/10638385-n:0/10758713-n:0/13802920-n:0/14485526-n:0
+que que PR0CN00 
+apenas apenas RG 00002621-r:0/00003093-r:0/00004722-r:0/00011011-r:0/00073763-r:0
+tiene tener VMIP3S0 00056930-v:0/00065370-v:0/00121046-v:0/01216670-v:0/02108026-v:0/02203362-v:0/02204692-v:0/02205098-v:0/02355596-v:0/02630189-v:0/02630871-v:0/02740745-v:0
+aliento aliento NCMS000 00836537-n:0/01211019-n:0/06691442-n:0/14841770-n:0
+, , Fc 
+tanto tanto RG 00023074-r:0/00146594-r:0
+que que CS 
+ni ni RN 
+a a SP 
+una uno DI0FS0 
+pluma pluma NCFS000 01896031-n:0/03388183-n:0/03906997-n:0/04033901-n:0/04212282-n:0/04668139-n:0/10076033-n:0
+podría poder VMIC3S0 00213794-v:0/02402825-v:0
+soplar soplar VMN0000 00007012-v:0/00477247-v:0/00877848-v:0/01171183-v:0/02100632-v:0/02769241-v:0
+! ! Fat 
+
++subord_[
+  +(ya_que ya_que CS)
+  coor-sp_[
+    grup-sp-inf_[
+      +prep_[
+        +(sin sin SP)
+      ]
+      grup-verb-inf_[
+        +infinitiu_[
+          +inf_[
+            +forma-inf_[
+              +(fijar fijar VMN0000)
+            ]
+            (se se PP3CN00)
+          ]
+        ]
+        grup-sp_[
+          +prep_[
+            +(en en SP)
+          ]
+          sn_[
+            espec-ms_[
+              +j-ms_[
+                +(el el DA0MS0)
+              ]
+            ]
+            +grup-nom-ms_[
+              s-a-ms_[
+                +a-ms_[
+                  +(apacible apacible AQ0CS00)
+                ]
+              ]
+              +grup-nom-ms_[
+                +n-ms_[
+                  +(tiempo tiempo NCMS000)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    +(ni ni CC)
+    grup-sp_[
+      +prep_[
+        +(en en SP)
+      ]
+      sn_[
+        espec-ms_[
+          +j-ms_[
+            +(el el DA0MS0)
+          ]
+        ]
+        +grup-nom-ms_[
+          +n-ms_[
+            +(ensueño ensueño NCMS000)
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-verb_[
+    sp-de_[
+      +(de de SP)
+      sn_[
+        espec-fs_[
+          +j-fs_[
+            +(la el DA0FS0)
+          ]
+        ]
+        +grup-nom-fs_[
+          +n-fs_[
+            +(hora hora NCFS000)
+          ]
+          s-a-fs_[
+            +a-fs_[
+              +(presente presente AQ0CS00)
+            ]
+          ]
+        ]
+      ]
+      Fc_[
+        +(, , Fc)
+      ]
+    ]
+    F-no-c_[
+      +(¡ ¡ Faa)
+    ]
+    +verb_[
+      +(exigen exigir VMIP3P0)
+    ]
+    sn_[
+      espec-fs_[
+        +indef-fs_[
+          +(una uno DI0FS0)
+        ]
+      ]
+      +grup-nom-fs_[
+        +n-fs_[
+          +(historia historia NCFS000)
+        ]
+      ]
+      sp-de_[
+        +(de de SP)
+        sn_[
+          espec-fs_[
+            +indef-fs_[
+              +(una uno DI0FS0)
+            ]
+          ]
+          +grup-nom-fs_[
+            +n-fs_[
+              +(voz voz NCFS000)
+            ]
+          ]
+          relativa_[
+            relatiu-sn_[
+              +(que que PR0CN00)
+            ]
+            sadv_[
+              +(apenas apenas RG)
+            ]
+            +verb_[
+              +(tiene tener VMIP3S0)
+            ]
+            sn_[
+              +grup-nom-ms_[
+                +n-ms_[
+                  +(aliento aliento NCMS000)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc_[
+      +(, , Fc)
+    ]
+    sadv_[
+      +(tanto tanto RG)
+    ]
+    subord_[
+      +(que que CS)
+      grup-verb_[
+        neg_[
+          +(ni ni RN)
+        ]
+        grup-sp_[
+          +prep_[
+            +(a a SP)
+          ]
+          sn_[
+            espec-fs_[
+              +indef-fs_[
+                +(una uno DI0FS0)
+              ]
+            ]
+            +grup-nom-fs_[
+              +n-fs_[
+                +(pluma pluma NCFS000)
+              ]
+            ]
+          ]
+        ]
+        +verb_[
+          (podría poder VMIC3S0)
+          +infinitiu_[
+            +inf_[
+              +forma-inf_[
+                +(soplar soplar VMN0000)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    F-term_[
+      +(! ! Fat)
+    ]
+  ]
+]
+subord/top/(ya_que ya_que CS) [
+  coor-sp/modnomatch/(ni ni CC) [
+    grup-sp-inf/coor/(sin sin SP) [
+      grup-verb-inf/comp/(fijar fijar VMN0000) [
+        PP3CN00/mphes/(se se PP3CN00)
+        grup-sp/pobj/(en en SP) [
+          sn/comp/(tiempo tiempo NCMS000) [
+            espec-ms/spec/(el el DA0MS0)
+            s-a-ms/mod/(apacible apacible AQ0CS00)
+          ]
+        ]
+      ]
+    ]
+    grup-sp/coor/(en en SP) [
+      sn/comp/(ensueño ensueño NCMS000) [
+        espec-ms/spec/(el el DA0MS0)
+      ]
+    ]
+  ]
+  grup-verb/comp/(exigen exigir VMIP3P0) [
+    sp-de/adjt/(de de SP) [
+      sn/comp/(hora hora NCFS000) [
+        espec-fs/spec/(la el DA0FS0)
+        s-a-fs/mod/(presente presente AQ0CS00)
+      ]
+      Fc/punc/(, , Fc)
+    ]
+    F-no-c/punc/(¡ ¡ Faa)
+    sn/dobj/(historia historia NCFS000) [
+      espec-fs/spec/(una uno DI0FS0)
+      sp-de/mod/(de de SP) [
+        sn/comp/(voz voz NCFS000) [
+          espec-fs/spec/(una uno DI0FS0)
+          relativa/mod/(tiene tener VMIP3S0) [
+            relatiu-sn/subj/(que que PR0CN00)
+            sadv/adjt/(apenas apenas RG)
+            sn/dobj/(aliento aliento NCMS000)
+          ]
+        ]
+      ]
+    ]
+    Fc/punc/(, , Fc)
+    sadv/adjt/(tanto tanto RG)
+    subord/modnomatch/(que que CS) [
+      grup-verb/comp/(soplar soplar VMN0000) [
+        VMIC3S0/prt/(podría poder VMIC3S0)
+        neg/spec/(ni ni RN)
+        grup-sp/adjt/(a a SP) [
+          sn/comp/(pluma pluma NCFS000) [
+            espec-fs/spec/(una uno DI0FS0)
+          ]
+        ]
+      ]
+    ]
+    F-term/punc/(! ! Fat)
+  ]
+]
+Mas mas CC 
+, , Fc 
+¿ ¿ Fia 
+qué qué PT00000 
+podría poder VMIC3S0 00213794-v:0/02402825-v:0
+una uno DI0FS0 
+voz voz NCFS000 04981941-n:0/05202284-n:0/06872122-n:0/07030718-n:0/07110615-n:0/07223450-n:0/10638385-n:0/10758713-n:0/13802920-n:0/14485526-n:0
+tan tan RG 00022131-r:0/00146594-r:0
+débil débil AQ0CS00 00265989-a:0/00266985-a:0/00782216-a:0/00843046-a:0/01178134-a:0/01259391-a:0/01455732-a:0/01747364-a:0/01827535-a:0/01827766-a:0/02040233-a:0/02324397-a:0/02325097-a:0/02325816-a:0/02325984-a:0/02544525-a:0
+contra contra SP 
+la el DA0FS0 
+voluntad voluntad NCFS000 05652593-n:0/05983654-n:0/06544142-n:0/07185870-n:0
+de de SP 
+las el DA0FP0 
+tres 3 Z 
+? ? Fit 
+
++coor-vb_[
+  +(Mas mas CC)
+  Fc_[
+    +(, , Fc)
+  ]
+  grup-verb_[
+    F-no-c_[
+      +(¿ ¿ Fia)
+    ]
+    sn_[
+      +pron-ms_[
+        +pinterrog_[
+          +(qué qué PT00000)
+        ]
+      ]
+    ]
+    +verb_[
+      +(podría poder VMIC3S0)
+    ]
+    sn_[
+      espec-fs_[
+        +indef-fs_[
+          +(una uno DI0FS0)
+        ]
+      ]
+      +grup-nom-fs_[
+        +n-fs_[
+          +(voz voz NCFS000)
+        ]
+      ]
+      s-adj_[
+        sadv_[
+          +(tan tan RG)
+        ]
+        +s-a-ms_[
+          +a-ms_[
+            +(débil débil AQ0CS00)
+          ]
+        ]
+      ]
+    ]
+    grup-sp_[
+      +prep_[
+        +(contra contra SP)
+      ]
+      sn_[
+        espec-fs_[
+          +j-fs_[
+            +(la el DA0FS0)
+          ]
+        ]
+        +grup-nom-fs_[
+          +n-fs_[
+            +(voluntad voluntad NCFS000)
+          ]
+        ]
+        sp-de_[
+          +(de de SP)
+          sn_[
+            espec-fp_[
+              +j-fp_[
+                +(las el DA0FP0)
+              ]
+            ]
+            +numero_[
+              +(tres 3 Z)
+            ]
+          ]
+        ]
+      ]
+    ]
+    F-term_[
+      +(? ? Fit)
+    ]
+  ]
+]
+coor-vb/top/(Mas mas CC) [
+  Fc/punc/(, , Fc)
+  grup-verb/coor/(podría poder VMIC3S0) [
+    F-no-c/punc/(¿ ¿ Fia)
+    sn/dobj/(qué qué PT00000)
+    sn/modnomatch/(voz voz NCFS000) [
+      espec-fs/spec/(una uno DI0FS0)
+      s-adj/mod/(débil débil AQ0CS00) [
+        sadv/spec/(tan tan RG)
+      ]
+    ]
+    grup-sp/adjt/(contra contra SP) [
+      sn/comp/(voluntad voluntad NCFS000) [
+        espec-fs/spec/(la el DA0FS0)
+        sp-de/mod/(de de SP) [
+          sn/comp/(tres 3 Z) [
+            espec-fp/spec/(las el DA0FP0)
+          ]
+        ]
+      ]
+    ]
+    F-term/punc/(? ? Fit)
+  ]
+]
+La el DA0FS0 
+primera 1 AO0FS00 02186338-a:0
+, , Fc 
+imperiosamente imperiosamente RG 
+, , Fc 
+dicta dictar VMIP3S0 00528990-v:0/00626890-v:0/00747135-v:0/00967625-v:0/01062253-v:0/02442205-v:0/02479323-v:0
+su su DP3CSN 
+decreto decreto NCMS000 06539770-n:0/80000909-n:0
+: : Fd 
+" " Fe 
+¡ ¡ Faa 
+Comience comenzar VMM03S0 00345761-v:0/00348746-v:0/00901799-v:0/01628449-v:0/01650610-v:0/01857717-v:0/01864230-v:0/02379528-v:0/02600948-v:0/02608347-v:0
+el el DA0MS0 
+cuento cuento NCMS000 06371999-n:0/06757057-n:0/07220773-n:0/07221939-n:0
+! ! Fat 
+" " Fe 
+La el DA0FS0 
+segunda 2 AO0FS00 02186470-a:0
+, , Fc 
+un uno DI0MS0 
+poco poco PI0MS00 
+más más RG 00029367-r:0/00073033-r:0/00099341-r:0/00111609-r:0
+amable amable AQ0CS00 00020787-a:0/00177834-a:0/00639230-a:0/01041209-a:0/01075178-a:0/01076024-a:0/01134232-a:0/01372049-a:0/01459422-a:0/01464700-a:0
+, , Fc 
+pide pedir VMIP3S0 00745499-v:0/00752493-v:0/00752764-v:0/00753428-v:0/00754942-v:0/00755745-v:0/00758887-v:0/00782057-v:0/00784342-v:0/00795632-v:0/01018065-v:0/01063695-v:0/01068565-v:0/02270815-v:0/02359061-v:0/02498320-v:0/02627934-v:0
+que que CS 
+el el DA0MS0 
+cuento cuento NCMS000 06371999-n:0/06757057-n:0/07220773-n:0/07221939-n:0
+no no RN 00024073-r:0/00024356-r:0/00024587-r:0/00118531-r:0
+sea ser VSSP1S0 02445925-v:0/02603699-v:0/02604760-v:0/02616386-v:0/02620587-v:0/02664769-v:0/02745332-v:0/02749904-v:0
+tonto tonto AQ0MS00 00439588-a:0/00439905-a:0/00440579-a:0/00752847-a:0/01336587-a:0/01336837-a:0/01841390-a:0/02120828-a:0/02570282-a:0/02571536-a:0
+, , Fc 
+mientras_que mientras_que CS 
+la el DA0FS0 
+tercera 3 AO0FS00 02186580-a:0
+interrumpe interrumpir VMIP3S0 00353839-v:0/00362348-v:0/00364064-v:0/00396234-v:0/00520019-v:0/00520357-v:0/00554298-v:0/00778275-v:0/00780191-v:0/02683840-v:0
+la el DA0FS0 
+historia historia NCFS000 06155567-n:0/06156752-n:0/06369829-n:0/06514093-n:0/06681551-n:0/06756831-n:0/06757057-n:0/07220773-n:0/15121406-n:0/15123996-n:0
+nada nada PI0CS00 
+más más RG 00029367-r:0/00073033-r:0/00099341-r:0/00111609-r:0
+que que CS 
+una uno DI0FS0 
+vez vez NCFS000 07308889-n:0/07309599-n:0
+por por SP 
+minuto minuto NCMS000 05131023-n:0/13611567-n:0/15234764-n:0/15244650-n:0/15246353-n:0/15246853-n:0
+. . Fp 
+
++grup-verb_[
+  sn_[
+    j-fs_[
+      +(La el DA0FS0)
+    ]
+    +s-a-fs_[
+      +a-fs_[
+        +(primera 1 AO0FS00)
+      ]
+    ]
+    Fc_[
+      +(, , Fc)
+    ]
+    sadv_[
+      +(imperiosamente imperiosamente RG)
+    ]
+    Fc_[
+      +(, , Fc)
+    ]
+  ]
+  +verb_[
+    +(dicta dictar VMIP3S0)
+  ]
+  sn_[
+    espec-ms_[
+      +pos-ms_[
+        +(su su DP3CSN)
+      ]
+    ]
+    +grup-nom-ms_[
+      +n-ms_[
+        +(decreto decreto NCMS000)
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(: : Fd)
+  ]
+  F-no-c_[
+    +(" " Fe)
+  ]
+  grup-verb_[
+    F-no-c_[
+      +(¡ ¡ Faa)
+    ]
+    +verb_[
+      +(Comience comenzar VMM03S0)
+    ]
+    sn_[
+      espec-ms_[
+        +j-ms_[
+          +(el el DA0MS0)
+        ]
+      ]
+      +grup-nom-ms_[
+        +n-ms_[
+          +(cuento cuento NCMS000)
+        ]
+      ]
+    ]
+    F-term_[
+      +(! ! Fat)
+    ]
+  ]
+  F-no-c_[
+    +(" " Fe)
+  ]
+  grup-verb_[
+    sn_[
+      j-fs_[
+        +(La el DA0FS0)
+      ]
+      +s-a-fs_[
+        +a-fs_[
+          +(segunda 2 AO0FS00)
+        ]
+      ]
+      Fc_[
+        +(, , Fc)
+      ]
+    ]
+    sn_[
+      indef-ms_[
+        +(un uno DI0MS0)
+      ]
+      +pindef-ms_[
+        +(poco poco PI0MS00)
+      ]
+      s-adj_[
+        sadv_[
+          +(más más RG)
+        ]
+        +s-a-ms_[
+          +a-ms_[
+            +(amable amable AQ0CS00)
+          ]
+        ]
+      ]
+      Fc_[
+        +(, , Fc)
+      ]
+    ]
+    +verb_[
+      +(pide pedir VMIP3S0)
+    ]
+    subord_[
+      +(que que CS)
+      grup-verb_[
+        sn_[
+          espec-ms_[
+            +j-ms_[
+              +(el el DA0MS0)
+            ]
+          ]
+          +grup-nom-ms_[
+            +n-ms_[
+              +(cuento cuento NCMS000)
+            ]
+          ]
+        ]
+        neg_[
+          +(no no RN)
+        ]
+        +verb_[
+          +(sea ser VSSP1S0)
+        ]
+        s-adj_[
+          +s-a-ms_[
+            +a-ms_[
+              +(tonto tonto AQ0MS00)
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc_[
+      +(, , Fc)
+    ]
+    subord_[
+      +(mientras_que mientras_que CS)
+      grup-verb_[
+        sn_[
+          j-fs_[
+            +(la el DA0FS0)
+          ]
+          +s-a-fs_[
+            +a-fs_[
+              +(tercera 3 AO0FS00)
+            ]
+          ]
+        ]
+        +verb_[
+          +(interrumpe interrumpir VMIP3S0)
+        ]
+        sn_[
+          espec-fs_[
+            +j-fs_[
+              +(la el DA0FS0)
+            ]
+          ]
+          +grup-nom-fs_[
+            +n-fs_[
+              +(historia historia NCFS000)
+            ]
+          ]
+        ]
+        sn_[
+          +pron-ms_[
+            +pindef-ms_[
+              +(nada nada PI0CS00)
+            ]
+          ]
+        ]
+        sadv_[
+          +(más más RG)
+        ]
+      ]
+    ]
+  ]
+  conj-subord_[
+    +(que que CS)
+  ]
+  sn_[
+    espec-fs_[
+      +indef-fs_[
+        +(una uno DI0FS0)
+      ]
+    ]
+    +grup-nom-fs_[
+      +n-fs_[
+        +(vez vez NCFS000)
+      ]
+    ]
+  ]
+  grup-sp_[
+    +prep_[
+      +(por por SP)
+    ]
+    sn_[
+      +grup-nom-ms_[
+        +n-ms_[
+          +(minuto minuto NCMS000)
+        ]
+      ]
+    ]
+    F-term_[
+      +(. . Fp)
+    ]
+  ]
+]
+grup-verb/top/(dicta dictar VMIP3S0) [
+  sn/subj/(primera 1 AO0FS00) [
+    j-fs/spec/(La el DA0FS0)
+    Fc/punc/(, , Fc)
+    sadv/modnomatch/(imperiosamente imperiosamente RG)
+    Fc/punc/(, , Fc)
+  ]
+  sn/dobj/(decreto decreto NCMS000) [
+    espec-ms/spec/(su su DP3CSN)
+  ]
+  F-no-c/punc/(: : Fd)
+  F-no-c/punc/(" " Fe)
+  grup-verb/modnomatch/(Comience comenzar VMM03S0) [
+    F-no-c/punc/(¡ ¡ Faa)
+    sn/dobj/(cuento cuento NCMS000) [
+      espec-ms/spec/(el el DA0MS0)
+    ]
+    F-term/punc/(! ! Fat)
+  ]
+  F-no-c/punc/(" " Fe)
+  grup-verb/modnomatch/(pide pedir VMIP3S0) [
+    sn/subj/(segunda 2 AO0FS00) [
+      j-fs/spec/(La el DA0FS0)
+      Fc/punc/(, , Fc)
+    ]
+    sn/modnomatch/(poco poco PI0MS00) [
+      indef-ms/spec/(un uno DI0MS0)
+      s-adj/mod/(amable amable AQ0CS00) [
+        sadv/spec/(más más RG)
+      ]
+      Fc/punc/(, , Fc)
+    ]
+    subord/dobj/(que que CS) [
+      grup-verb/comp/(sea ser VSSP1S0) [
+        sn/subj/(cuento cuento NCMS000) [
+          espec-ms/spec/(el el DA0MS0)
+        ]
+        neg/spec/(no no RN)
+        s-adj/attr/(tonto tonto AQ0MS00)
+      ]
+    ]
+    Fc/punc/(, , Fc)
+    subord/adjt/(mientras_que mientras_que CS) [
+      grup-verb/comp/(interrumpe interrumpir VMIP3S0) [
+        sn/subj/(tercera 3 AO0FS00) [
+          j-fs/spec/(la el DA0FS0)
+        ]
+        sn/dobj/(historia historia NCFS000) [
+          espec-fs/spec/(la el DA0FS0)
+        ]
+        sn/modnomatch/(nada nada PI0CS00)
+        sadv/adjt/(más más RG)
+      ]
+    ]
+  ]
+  conj-subord/modnomatch/(que que CS)
+  sn/adjt/(vez vez NCFS000) [
+    espec-fs/spec/(una uno DI0FS0)
+  ]
+  grup-sp/adjt/(por por SP) [
+    sn/comp/(minuto minuto NCMS000)
+    F-term/punc/(. . Fp)
+  ]
+]
+Conseguido conseguir VMP00SM 00649362-v:0/01203369-v:0/01381549-v:0/01385643-v:0/02206014-v:0/02210855-v:0/02213336-v:0/02238085-v:0/02522864-v:0/02524171-v:0/02526085-v:0
+a a SP 
+el el DA0MS0 
+fin fin NCMS000 00229260-n:0/05559256-n:0/05868477-n:0/05980875-n:0/07291794-n:0/08565894-n:0/15266911-n:0/15267536-n:0
+el el DA0MS0 
+silencio silencio NCMS000 04982207-n:0/04982478-n:0/06865177-n:0/07515560-n:0
+, , Fc 
+con con SP 
+la el DA0FS0 
+imaginación imaginación NCFS000 00755500-n:0/05625465-n:0
+las lo PP3FPA0 
+lleva llevar VMIP3S0 00047610-v:0/00047745-v:0/00050652-v:0/00052374-v:0/00075021-v:0/00135857-v:0/00173338-v:0/00539546-v:0/00771632-v:0/00777522-v:0/01061320-v:0/01101571-v:0/01218084-v:0/01241881-v:0/01408760-v:0/01432601-v:0/01433294-v:0/01434140-v:0/01449974-v:0/01452255-v:0/01601234-v:0/01746359-v:0/01957107-v:0/01999798-v:0/02077656-v:0/02079933-v:0/02116980-v:0/02208118-v:0/02233195-v:0/02267989-v:0/02280132-v:0/02285392-v:0/02445509-v:0/02686471-v:0/02686625-v:0/02700867-v:0/02717102-v:0
+, , Fc 
+siguiendo seguir VMG0000 00117985-v:0/00118523-v:0/00118764-v:0/00150776-v:0/00351406-v:0/00589738-v:0/00781000-v:0/01049606-v:0/01453969-v:0/01618468-v:0/01991931-v:0/01995549-v:0/01998432-v:0/02000868-v:0/02001858-v:0/02072849-v:0/02198602-v:0/02346895-v:0/02406585-v:0/02410175-v:0/02445925-v:0/02542280-v:0/02561697-v:0/02634265-v:0/02637592-v:0/02679899-v:0/02684254-v:0/02684924-v:0/02687916-v:0/02712772-v:0/02720354-v:0/02720544-v:0/02720697-v:0/02727462-v:0/02731024-v:0/02747709-v:0/02747922-v:0
+a a SP 
+esa ese DD0FS0 
+niña niño NCFS000 09827683-n:0/09871229-n:0/09908025-n:0/09917593-n:0/09918248-n:0/09918554-n:0/10285313-n:0/10714465-n:0
+soñada soñar VMP00SF 01634142-v:0/01637368-v:0/01637633-v:0/02118242-v:0
+, , Fc 
+por por SP 
+un uno DI0MS0 
+mundo mundo NCMS000 02472987-n:0/05809878-n:0/08179689-n:0/09270894-n:0/09466280-n:0/09480809-n:0
+nuevo nuevo AQ0MS00 00024996-a:0/00128733-a:0/00818008-a:0/01294300-a:0/01640850-a:0/01641648-a:0/01642081-a:0/01642379-a:0/01687167-a:0/02584699-a:0
+, , Fc 
+de de SP 
+hermosas hermoso AQ0FP00 00217728-a:0/00218305-a:0/00218440-a:0/00219809-a:0/01484342-a:0/01800764-a:0
+maravillas maravilla NCFP000 04729127-n:0/07289481-n:0/07289588-n:0/07509996-n:0/10325656-n:0/10479783-n:0/10613996-n:0/11940750-n:0/11978233-n:0/12020507-n:0
+en en SP 
+el el DA0MS0 
+que que PR0CN00 
+hasta hasta SP 
+los el DA0MP0 
+pájaros pájaro NCMP000 01503061-n:0/10022759-n:0
+y y CC 
+las el DA0FP0 
+bestias bestia NCCP000 00015388-n:0/09845589-n:0/10410815-n:0
+hablan hablar VMIP3P0 00830761-v:0/00941990-v:0/00943563-v:0/00952841-v:0/00962447-v:0/00963570-v:0/00978549-v:0/00989201-v:0/02135607-v:0
+con con SP 
+voz voz NCFS000 04981941-n:0/05202284-n:0/06872122-n:0/07030718-n:0/07110615-n:0/07223450-n:0/10638385-n:0/10758713-n:0/13802920-n:0/14485526-n:0
+humana humano AQ0FS00 00412460-a:0/00964470-a:0/01258617-a:0/01261867-a:0/01262284-a:0/01557790-a:0/02743261-a:0/02743391-a:0/80000054-a:0
+, , Fc 
+y y CC 
+ellas ellos PP3FP00 
+casi casi RG 00073033-r:0
+se se P00CN00 
+creen creer VMIP3P0 00628491-v:0/00631737-v:0/00683280-v:0/00683670-v:0/00684068-v:0/00684273-v:0/00689344-v:0/00715239-v:0/01637166-v:0/02134350-v:0
+estar estar VMN0000 01251828-v:0/02604760-v:0/02655135-v:0/02729963-v:0/02734338-v:0/02744820-v:0
+allí allí RG 00109151-r:0
+. . Fp 
+
++grup-verb_[
+  subord-part_[
+    +parti-ms_[
+      +(Conseguido conseguir VMP00SM)
+    ]
+    grup-sp_[
+      +prep_[
+        +(a a SP)
+      ]
+      sn_[
+        espec-ms_[
+          +j-ms_[
+            +(el el DA0MS0)
+          ]
+        ]
+        +grup-nom-ms_[
+          +n-ms_[
+            +(fin fin NCMS000)
+          ]
+        ]
+      ]
+    ]
+  ]
+  sn_[
+    espec-ms_[
+      +j-ms_[
+        +(el el DA0MS0)
+      ]
+    ]
+    +grup-nom-ms_[
+      +n-ms_[
+        +(silencio silencio NCMS000)
+      ]
+    ]
+    Fc_[
+      +(, , Fc)
+    ]
+  ]
+  grup-sp_[
+    +prep_[
+      +(con con SP)
+    ]
+    sn_[
+      espec-fs_[
+        +j-fs_[
+          +(la el DA0FS0)
+        ]
+      ]
+      +grup-nom-fs_[
+        +n-fs_[
+          +(imaginación imaginación NCFS000)
+        ]
+      ]
+    ]
+  ]
+  patons_[
+    +paton-fp_[
+      +(las lo PP3FPA0)
+    ]
+  ]
+  +grup-verb_[
+    +verb_[
+      +(lleva llevar VMIP3S0)
+    ]
+  ]
+  Fc_[
+    +(, , Fc)
+  ]
+  subord-ger_[
+    +(siguiendo seguir VMG0000)
+    grup-sp_[
+      +prep_[
+        +(a a SP)
+      ]
+      sn_[
+        espec-fs_[
+          +dem-fs_[
+            +(esa ese DD0FS0)
+          ]
+        ]
+        +grup-nom-fs_[
+          +n-fs_[
+            +(niña niño NCFS000)
+          ]
+          s-a-fs_[
+            +parti-fs_[
+              +(soñada soñar VMP00SF)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc_[
+    +(, , Fc)
+  ]
+  grup-sp_[
+    +prep_[
+      +(por por SP)
+    ]
+    sn_[
+      espec-ms_[
+        +indef-ms_[
+          +(un uno DI0MS0)
+        ]
+      ]
+      +grup-nom-ms_[
+        +n-ms_[
+          +(mundo mundo NCMS000)
+        ]
+        s-a-ms_[
+          +a-ms_[
+            +(nuevo nuevo AQ0MS00)
+          ]
+        ]
+      ]
+    ]
+    Fc_[
+      +(, , Fc)
+    ]
+  ]
+  sp-de_[
+    +(de de SP)
+    sn_[
+      +grup-nom-fp_[
+        s-a-fp_[
+          +a-fp_[
+            +(hermosas hermoso AQ0FP00)
+          ]
+        ]
+        +grup-nom-fp_[
+          +n-fp_[
+            +(maravillas maravilla NCFP000)
+          ]
+        ]
+      ]
+    ]
+  ]
+  relatiu-sp_[
+    +(en en SP)
+    prel_[
+      espec-ms_[
+        +j-ms_[
+          +(el el DA0MS0)
+        ]
+      ]
+      +(que que PR0CN00)
+    ]
+  ]
+  grup-sp_[
+    +prep_[
+      +(hasta hasta SP)
+    ]
+    sn_[
+      espec-mp_[
+        +j-mp_[
+          +(los el DA0MP0)
+        ]
+      ]
+      +grup-nom-mp_[
+        +n-mp_[
+          +(pájaros pájaro NCMP000)
+        ]
+      ]
+    ]
+  ]
+  coor-n_[
+    +(y y CC)
+    sn_[
+      espec-fp_[
+        +j-fp_[
+          +(las el DA0FP0)
+        ]
+      ]
+      +grup-nom-fp_[
+        +n-fp_[
+          +(bestias bestia NCCP000)
+        ]
+      ]
+    ]
+  ]
+  grup-verb_[
+    +verb_[
+      +(hablan hablar VMIP3P0)
+    ]
+    grup-sp_[
+      +prep_[
+        +(con con SP)
+      ]
+      sn_[
+        +grup-nom-fs_[
+          +n-fs_[
+            +(voz voz NCFS000)
+          ]
+          s-a-fs_[
+            +a-fs_[
+              +(humana humano AQ0FS00)
+            ]
+          ]
+        ]
+      ]
+    ]
+    coor-n_[
+      Fc_[
+        +(, , Fc)
+      ]
+      +(y y CC)
+      sn_[
+        +pron-fp_[
+          +psubj-fp_[
+            +(ellas ellos PP3FP00)
+          ]
+        ]
+      ]
+    ]
+    sadv_[
+      +(casi casi RG)
+    ]
+  ]
+  grup-verb_[
+    morfema-verbal_[
+      +(se se P00CN00)
+    ]
+    +grup-verb_[
+      +verb_[
+        +(creen creer VMIP3P0)
+      ]
+    ]
+    grup-verb-inf_[
+      +infinitiu_[
+        +inf_[
+          +forma-inf_[
+            +(estar estar VMN0000)
+          ]
+        ]
+      ]
+    ]
+    sadv_[
+      +(allí allí RG)
+    ]
+    F-term_[
+      +(. . Fp)
+    ]
+  ]
+]
+grup-verb/top/(lleva llevar VMIP3S0) [
+  patons/dobj/(las lo PP3FPA0)
+  subord-part/pred/(Conseguido conseguir VMP00SM) [
+    grup-sp/adjt/(a a SP) [
+      sn/comp/(fin fin NCMS000) [
+        espec-ms/spec/(el el DA0MS0)
+      ]
+    ]
+  ]
+  sn/subj/(silencio silencio NCMS000) [
+    espec-ms/spec/(el el DA0MS0)
+    Fc/punc/(, , Fc)
+  ]
+  grup-sp/adjt/(con con SP) [
+    sn/comp/(imaginación imaginación NCFS000) [
+      espec-fs/spec/(la el DA0FS0)
+    ]
+  ]
+  Fc/punc/(, , Fc)
+  subord-ger/adjt/(siguiendo seguir VMG0000) [
+    grup-sp/dobj/(a a SP) [
+      sn/comp/(niña niño NCFS000) [
+        espec-fs/spec/(esa ese DD0FS0)
+        s-a-fs/mod/(soñada soñar VMP00SF)
+      ]
+    ]
+  ]
+  Fc/punc/(, , Fc)
+  grup-sp/pobj/(por por SP) [
+    sn/comp/(mundo mundo NCMS000) [
+      espec-ms/spec/(un uno DI0MS0)
+      s-a-ms/mod/(nuevo nuevo AQ0MS00)
+    ]
+    Fc/punc/(, , Fc)
+  ]
+  sp-de/pobj/(de de SP) [
+    sn/comp/(maravillas maravilla NCFP000) [
+      s-a-fp/mod/(hermosas hermoso AQ0FP00)
+    ]
+  ]
+  relatiu-sp/modnomatch/(en en SP) [
+    prel/comp/(que que PR0CN00) [
+      espec-ms/spec/(el el DA0MS0)
+    ]
+  ]
+  grup-sp/pobj/(hasta hasta SP) [
+    sn/comp/(pájaros pájaro NCMP000) [
+      espec-mp/spec/(los el DA0MP0)
+    ]
+  ]
+  coor-n/modnomatch/(y y CC) [
+    sn/coor/(bestias bestia NCCP000) [
+      espec-fp/spec/(las el DA0FP0)
+    ]
+  ]
+  grup-verb/modnomatch/(hablan hablar VMIP3P0) [
+    grup-sp/adjt/(con con SP) [
+      sn/comp/(voz voz NCFS000) [
+        s-a-fs/mod/(humana humano AQ0FS00)
+      ]
+    ]
+    coor-n/dobj/(y y CC) [
+      Fc/punc/(, , Fc)
+      sn/coor/(ellas ellos PP3FP00)
+    ]
+    sadv/adjt/(casi casi RG)
+  ]
+  grup-verb/modnomatch/(creen creer VMIP3P0) [
+    morfema-verbal/mphes/(se se P00CN00)
+    grup-verb-inf/dobj/(estar estar VMN0000)
+    sadv/adjt/(allí allí RG)
+    F-term/punc/(. . Fp)
+  ]
+]
+Y y CC 
+cada cada DI0CS0 
+vez vez NCFS000 07308889-n:0/07309599-n:0
+que que PR0CN00 
+el el DA0MS0 
+narrador narrador NCMS000 09793352-n:0/10345804-n:0
+intentaba intentar VMII3S0 00708538-v:0/01651293-v:0/02530167-v:0
+, , Fc 
+seca seco AQ0FS00 00547641-a:0/00640660-a:0/00988988-a:0/01069715-a:0/01072382-a:0/01077362-a:0/01369404-a:0/01369491-a:0/01792973-a:0/02367785-a:0/02368247-a:0/02551380-a:0/02553017-a:0/02553234-a:0/02554546-a:0
+ya ya RG 00017639-r:0/00031798-r:0
+la el DA0FS0 
+fuente fuente NCFS000 03206908-n:0/03241335-n:0/03387815-n:0/03387926-n:0/03388043-n:0/04131929-n:0/04176190-n:0/04263614-n:0/05834758-n:0/06675122-n:0/06825399-n:0/07258664-n:0/07579787-n:0/08507558-n:0/09443453-n:0/10205985-n:0/13768850-n:0
+de de SP 
+su su DP3CSN 
+inspiración inspiración NCFS000 00836788-n:0/01261845-n:0/03574004-n:0/05797473-n:0/05834567-n:0/05835449-n:0
+dejar dejar VMN0000 00136991-v:0/00360092-v:0/00363110-v:0/00496673-v:0/00571061-v:0/00613018-v:0/00613683-v:0/00614057-v:0/00778885-v:0/00802318-v:0/01083044-v:0/01196037-v:0/01196524-v:0/01489465-v:0/01494310-v:0/02009433-v:0/02015598-v:0/02200498-v:0/02204094-v:0/02229055-v:0/02230615-v:0/02324182-v:0/02356230-v:0/02382367-v:0/02383440-v:0/02423183-v:0/02534062-v:0/02584097-v:0/02635659-v:0/02680691-v:0/02680814-v:0/02681639-v:0/02721438-v:0/02729414-v:0
+la el DA0FS0 
+narración narración NCFS000 07220773-n:0/07221094-n:0
+para para SP 
+el el DA0MS0 
+día día NCMS000 15123115-n:0/15155220-n:0/15157041-n:0/15157225-n:0/15164957-n:0/15208540-n:0/15222840-n:0
+siguiente siguiente AQ0CS00 00127296-a:0/00127815-a:0/00127948-a:0/00199569-a:0/01294975-a:0
+, , Fc 
+y y CC 
+decía decir VMII3S0 00720961-v:0/00746718-v:0/00878136-v:0/00902932-v:0/00928959-v:0/00941990-v:0/00945499-v:0/00952524-v:0/00954422-v:0/00955148-v:0/00978549-v:0/00979870-v:0/01009240-v:0/01016002-v:0/01019643-v:0/02721284-v:0/02730813-v:0
+: : Fd 
+" " Fe 
+El el DA0MS0 
+resto resto NCMS000 03286383-n:0/09407346-n:0/13729236-n:0/13733663-n:0/13810818-n:0/14857897-n:0
+para para SP 
+la el DA0FS0 
+próxima próximo AQ0FS00 00127815-a:0/00127948-a:0/00444519-a:0/00445169-a:0/00448314-a:0/00450147-a:0/01579608-a:0/01732601-a:0
+vez vez NCFS000 07308889-n:0/07309599-n:0
+" " Fe 
+, , Fc 
+las el DA0FP0 
+tres 3 Z 
+, , Fc 
+a a SP 
+el el DA0MS0 
+tiempo tiempo NCMS000 00028270-n:0/06329506-n:0/11524662-n:0/15122231-n:0/15135822-n:0/15224692-n:0/15246353-n:0/15264363-n:0/15270431-n:0
+, , Fc 
+decían decir VMII3P0 00720961-v:0/00746718-v:0/00878136-v:0/00902932-v:0/00928959-v:0/00941990-v:0/00945499-v:0/00952524-v:0/00954422-v:0/00955148-v:0/00978549-v:0/00979870-v:0/01009240-v:0/01016002-v:0/01019643-v:0/02721284-v:0/02730813-v:0
+: : Fd 
+" " Fe 
+¡ ¡ Faa 
+Ya ya RG 00017639-r:0/00031798-r:0
+es ser VSIP3S0 02445925-v:0/02603699-v:0/02604760-v:0/02616386-v:0/02620587-v:0/02664769-v:0/02745332-v:0/02749904-v:0
+la el DA0FS0 
+próxima próximo AQ0FS00 00127815-a:0/00127948-a:0/00444519-a:0/00445169-a:0/00448314-a:0/00450147-a:0/01579608-a:0/01732601-a:0
+vez vez NCFS000 07308889-n:0/07309599-n:0
+! ! Fat 
+" " Fe 
+Y y CC 
+así así RG 00043003-r:0/00118363-r:0/00121002-r:0/00121135-r:0
+fue ser VSIS3S0 02445925-v:0/02603699-v:0/02604760-v:0/02616386-v:0/02620587-v:0/02664769-v:0/02745332-v:0/02749904-v:0
+surgiendo surgir VMG0000 00423702-v:0/00426581-v:0/00528990-v:0/00935141-v:0/01990694-v:0/02608347-v:0/02623731-v:0/02624263-v:0/02625786-v:0/02696961-v:0/02721840-v:0/02743921-v:0/02744061-v:0
+el el DA0MS0 
+" " Fe 
+País_de_las_Maravillas país_de_las_maravillas NP00000 05632175-n:0
+" " Fe 
+, , Fc 
+poquito poco PI0MS00 
+a a SP 
+poco poco PI0MS00 
+, , Fc 
+y y CC 
+una uno PI0FS00 
+a a SP 
+una uno DI0FS0 
+, , Fc 
+el el DA0MS0 
+mosaico mosaico NCMS000 03787759-n:0/03787904-n:0/05931980-n:0/14280775-n:0
+de de SP 
+sus su DP3CPN 
+extrañas extraño AQ0FP00 00608791-a:0/00966477-a:0/00967129-a:0/00968010-a:0/00968522-a:0/00969333-a:0/01034457-a:0/01035007-a:0/01350494-a:0/01917594-a:0/02117464-a:0
+aventuras aventura NCFP000 00796315-n:0/00797878-n:0/13931436-n:0/13931889-n:0
+. . Fp 
+
++coor-n_[
+  +(Y y CC)
+  sn_[
+    espec-fs_[
+      +indef-fs_[
+        +(cada cada DI0CS0)
+      ]
+    ]
+    +grup-nom-fs_[
+      +n-fs_[
+        +(vez vez NCFS000)
+      ]
+    ]
+  ]
+  relativa_[
+    relatiu-sn_[
+      +(que que PR0CN00)
+    ]
+    sn_[
+      espec-ms_[
+        +j-ms_[
+          +(el el DA0MS0)
+        ]
+      ]
+      +grup-nom-ms_[
+        +n-ms_[
+          +(narrador narrador NCMS000)
+        ]
+      ]
+    ]
+    +verb_[
+      +(intentaba intentar VMII3S0)
+    ]
+    Fc_[
+      +(, , Fc)
+    ]
+  ]
+  s-adj_[
+    +s-a-fs_[
+      +a-fs_[
+        +(seca seco AQ0FS00)
+      ]
+    ]
+  ]
+  sadv_[
+    +(ya ya RG)
+  ]
+  sn_[
+    espec-fs_[
+      +j-fs_[
+        +(la el DA0FS0)
+      ]
+    ]
+    +grup-nom-fs_[
+      +n-fs_[
+        +(fuente fuente NCFS000)
+      ]
+    ]
+    sp-de_[
+      +(de de SP)
+      sn_[
+        espec-fs_[
+          +pos-fs_[
+            +(su su DP3CSN)
+          ]
+        ]
+        +grup-nom-fs_[
+          +n-fs_[
+            +(inspiración inspiración NCFS000)
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(dejar dejar VMN0000)
+        ]
+      ]
+    ]
+    sn_[
+      espec-fs_[
+        +j-fs_[
+          +(la el DA0FS0)
+        ]
+      ]
+      +grup-nom-fs_[
+        +n-fs_[
+          +(narración narración NCFS000)
+        ]
+      ]
+    ]
+    grup-sp_[
+      +prep_[
+        +(para para SP)
+      ]
+      sn_[
+        espec-ms_[
+          +j-ms_[
+            +(el el DA0MS0)
+          ]
+        ]
+        +grup-nom-ms_[
+          +n-ms_[
+            +(día día NCMS000)
+          ]
+          s-a-ms_[
+            +a-ms_[
+              +(siguiente siguiente AQ0CS00)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  coor-vb_[
+    Fc_[
+      +(, , Fc)
+    ]
+    +(y y CC)
+    grup-verb_[
+      +verb_[
+        +(decía decir VMII3S0)
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(: : Fd)
+  ]
+  F-no-c_[
+    +(" " Fe)
+  ]
+  sn_[
+    espec-ms_[
+      +j-ms_[
+        +(El el DA0MS0)
+      ]
+    ]
+    +grup-nom-ms_[
+      +n-ms_[
+        +(resto resto NCMS000)
+      ]
+    ]
+  ]
+  grup-sp_[
+    +prep_[
+      +(para para SP)
+    ]
+    sn_[
+      espec-fs_[
+        +j-fs_[
+          +(la el DA0FS0)
+        ]
+      ]
+      +grup-nom-fs_[
+        s-a-fs_[
+          +a-fs_[
+            +(próxima próximo AQ0FS00)
+          ]
+        ]
+        +grup-nom-fs_[
+          +n-fs_[
+            +(vez vez NCFS000)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(" " Fe)
+  ]
+  Fc_[
+    +(, , Fc)
+  ]
+  grup-verb_[
+    sn_[
+      espec-fp_[
+        +j-fp_[
+          +(las el DA0FP0)
+        ]
+      ]
+      +numero_[
+        +(tres 3 Z)
+      ]
+      Fc_[
+        +(, , Fc)
+      ]
+    ]
+    grup-sp_[
+      +prep_[
+        +(a a SP)
+      ]
+      sn_[
+        espec-ms_[
+          +j-ms_[
+            +(el el DA0MS0)
+          ]
+        ]
+        +grup-nom-ms_[
+          +n-ms_[
+            +(tiempo tiempo NCMS000)
+          ]
+        ]
+      ]
+      Fc_[
+        +(, , Fc)
+      ]
+    ]
+    +verb_[
+      +(decían decir VMII3P0)
+    ]
+  ]
+  F-no-c_[
+    +(: : Fd)
+  ]
+  F-no-c_[
+    +(" " Fe)
+  ]
+  grup-verb_[
+    F-no-c_[
+      +(¡ ¡ Faa)
+    ]
+    sadv_[
+      +(Ya ya RG)
+    ]
+    +verb_[
+      +(es ser VSIP3S0)
+    ]
+    sn_[
+      espec-fs_[
+        +j-fs_[
+          +(la el DA0FS0)
+        ]
+      ]
+      +grup-nom-fs_[
+        s-a-fs_[
+          +a-fs_[
+            +(próxima próximo AQ0FS00)
+          ]
+        ]
+        +grup-nom-fs_[
+          +n-fs_[
+            +(vez vez NCFS000)
+          ]
+        ]
+      ]
+    ]
+    F-term_[
+      +(! ! Fat)
+    ]
+  ]
+  F-no-c_[
+    +(" " Fe)
+  ]
+  coor-sadv_[
+    +(Y y CC)
+    sadv_[
+      +(así así RG)
+    ]
+  ]
+  grup-verb_[
+    +verb_[
+      +(fue ser VSIS3S0)
+    ]
+    subord-ger_[
+      +(surgiendo surgir VMG0000)
+      sn_[
+        espec-ms_[
+          +j-ms_[
+            +(el el DA0MS0)
+          ]
+        ]
+        (" " Fe)
+        +grup-nom-ms_[
+          +w-ms_[
+            +(País_de_las_Maravillas país_de_las_maravillas NP00000)
+          ]
+        ]
+        (" " Fe)
+      ]
+    ]
+    Fc_[
+      +(, , Fc)
+    ]
+    sn_[
+      +pron-ms_[
+        +pindef-ms_[
+          +(poquito poco PI0MS00)
+        ]
+      ]
+    ]
+    grup-sp_[
+      +prep_[
+        +(a a SP)
+      ]
+      sn_[
+        +pron-ms_[
+          +pindef-ms_[
+            +(poco poco PI0MS00)
+          ]
+        ]
+      ]
+    ]
+    coor-n_[
+      Fc_[
+        +(, , Fc)
+      ]
+      +(y y CC)
+      sn_[
+        +pron-fs_[
+          +pindef-fs_[
+            +(una uno PI0FS00)
+          ]
+        ]
+      ]
+    ]
+  ]
+  prep_[
+    +(a a SP)
+  ]
+  espec-fs_[
+    +indef-fs_[
+      +(una uno DI0FS0)
+    ]
+  ]
+  Fc_[
+    +(, , Fc)
+  ]
+  sn_[
+    espec-ms_[
+      +j-ms_[
+        +(el el DA0MS0)
+      ]
+    ]
+    +grup-nom-ms_[
+      +n-ms_[
+        +(mosaico mosaico NCMS000)
+      ]
+    ]
+    sp-de_[
+      +(de de SP)
+      sn_[
+        espec-fp_[
+          +pos-fp_[
+            +(sus su DP3CPN)
+          ]
+        ]
+        +grup-nom-fp_[
+          s-a-fp_[
+            +a-fp_[
+              +(extrañas extraño AQ0FP00)
+            ]
+          ]
+          +grup-nom-fp_[
+            +n-fp_[
+              +(aventuras aventura NCFP000)
+            ]
+          ]
+        ]
+      ]
+    ]
+    F-term_[
+      +(. . Fp)
+    ]
+  ]
+]
+coor-n/top/(Y y CC) [
+  sn/coor/(vez vez NCFS000) [
+    espec-fs/spec/(cada cada DI0CS0)
+  ]
+  relativa/modnomatch/(intentaba intentar VMII3S0) [
+    relatiu-sn/subj/(que que PR0CN00)
+    sn/modnomatch/(narrador narrador NCMS000) [
+      espec-ms/spec/(el el DA0MS0)
+    ]
+    Fc/punc/(, , Fc)
+  ]
+  s-adj/modnomatch/(seca seco AQ0FS00)
+  sadv/modnomatch/(ya ya RG)
+  sn/coor/(fuente fuente NCFS000) [
+    espec-fs/spec/(la el DA0FS0)
+    sp-de/mod/(de de SP) [
+      sn/comp/(inspiración inspiración NCFS000) [
+        espec-fs/spec/(su su DP3CSN)
+      ]
+    ]
+  ]
+  grup-verb-inf/modnomatch/(dejar dejar VMN0000) [
+    sn/dobj/(narración narración NCFS000) [
+      espec-fs/spec/(la el DA0FS0)
+    ]
+    grup-sp/adjt/(para para SP) [
+      sn/comp/(día día NCMS000) [
+        espec-ms/spec/(el el DA0MS0)
+        s-a-ms/mod/(siguiente siguiente AQ0CS00)
+      ]
+    ]
+  ]
+  coor-vb/modnomatch/(y y CC) [
+    Fc/punc/(, , Fc)
+    grup-verb/coor/(decía decir VMII3S0)
+  ]
+  F-no-c/punc/(: : Fd)
+  F-no-c/punc/(" " Fe)
+  sn/coor/(resto resto NCMS000) [
+    espec-ms/spec/(El el DA0MS0)
+  ]
+  grup-sp/modnomatch/(para para SP) [
+    sn/comp/(vez vez NCFS000) [
+      espec-fs/spec/(la el DA0FS0)
+      s-a-fs/mod/(próxima próximo AQ0FS00)
+    ]
+  ]
+  F-no-c/punc/(" " Fe)
+  Fc/punc/(, , Fc)
+  grup-verb/modnomatch/(decían decir VMII3P0) [
+    sn/subj/(tres 3 Z) [
+      espec-fp/spec/(las el DA0FP0)
+      Fc/punc/(, , Fc)
+    ]
+    grup-sp/adjt/(a a SP) [
+      sn/comp/(tiempo tiempo NCMS000) [
+        espec-ms/spec/(el el DA0MS0)
+      ]
+      Fc/punc/(, , Fc)
+    ]
+  ]
+  F-no-c/punc/(: : Fd)
+  F-no-c/punc/(" " Fe)
+  grup-verb/modnomatch/(es ser VSIP3S0) [
+    F-no-c/punc/(¡ ¡ Faa)
+    sadv/adjt/(Ya ya RG)
+    sn/adjt/(vez vez NCFS000) [
+      espec-fs/spec/(la el DA0FS0)
+      s-a-fs/mod/(próxima próximo AQ0FS00)
+    ]
+    F-term/punc/(! ! Fat)
+  ]
+  F-no-c/punc/(" " Fe)
+  coor-sadv/modnomatch/(Y y CC) [
+    sadv/coor/(así así RG)
+  ]
+  grup-verb/modnomatch/(fue ser VSIS3S0) [
+    subord-ger/adjt/(surgiendo surgir VMG0000) [
+      sn/dobj/(País_de_las_Maravillas país_de_las_maravillas NP00000) [
+        espec-ms/spec/(el el DA0MS0)
+        Fe/modnomatch/(" " Fe)
+        Fe/modnomatch/(" " Fe)
+      ]
+    ]
+    Fc/punc/(, , Fc)
+    sn/attr/(poquito poco PI0MS00)
+    grup-sp/adjt/(a a SP) [
+      sn/comp/(poco poco PI0MS00)
+    ]
+    coor-n/modnomatch/(y y CC) [
+      Fc/punc/(, , Fc)
+      sn/coor/(una uno PI0FS00)
+    ]
+  ]
+  prep/modnomatch/(a a SP)
+  espec-fs/modnomatch/(una uno DI0FS0)
+  Fc/punc/(, , Fc)
+  sn/coor/(mosaico mosaico NCMS000) [
+    espec-ms/spec/(el el DA0MS0)
+    sp-de/mod/(de de SP) [
+      sn/comp/(aventuras aventura NCFP000) [
+        espec-fp/spec/(sus su DP3CPN)
+        s-a-fp/mod/(extrañas extraño AQ0FP00)
+      ]
+    ]
+    F-term/punc/(. . Fp)
+  ]
+]
+Y y CC 
+ahora ahora RG 00048268-r:0/00048739-r:0/00049220-r:0
+, , Fc 
+que que CS 
+el el DA0MS0 
+relato relato NCMS000 06369829-n:0/06681551-n:0/07220773-n:0/07221094-n:0/07222823-n:0
+toca tocar VMIP3S0 00137313-v:0/00590642-v:0/00923622-v:0/01024763-v:0/01026728-v:0/01072949-v:0/01156115-v:0/01172701-v:0/01205696-v:0/01206218-v:0/01206849-v:0/01207527-v:0/01209426-v:0/01210737-v:0/01716619-v:0/01716882-v:0/01717169-v:0/01717436-v:0/01719302-v:0/01719921-v:0/01724459-v:0/01725051-v:0/01726172-v:0/01770802-v:0/02127358-v:0/02180898-v:0/02181538-v:0/02184503-v:0/02358655-v:0/02358922-v:0/02653862-v:0/02676054-v:0/02685665-v:0
+a a SP 
+su su DP3CSN 
+fin fin NCMS000 00229260-n:0/05559256-n:0/05868477-n:0/05980875-n:0/07291794-n:0/08565894-n:0/15266911-n:0/15267536-n:0
+, , Fc 
+también también RG 00047534-r:0
+el el DA0MS0 
+timón timón NCMS000 01256615-n:0/03512911-n:0/04117216-n:0/04117464-n:0/04313503-n:0
+de de SP 
+la el DA0FS0 
+barca barca NCFS000 02792552-n:0/02858304-n:0/04244997-n:0
+nos nos PP1CP00 
+vuelve volver VMIP3S0 00120316-v:0/00548153-v:0/02004874-v:0/02089420-v:0/02096167-v:0
+a a SP 
+el el DA0MS0 
+hogar hogar NCMS000 03259505-n:0/03343560-n:0/03346455-n:0/03507241-n:0/03528100-n:0/08078020-n:0/08490199-n:0/14513694-n:0
+, , Fc 
+¡ ¡ Faa 
+una uno DI0FS0 
+alegre alegre AQ0CS00 00362467-a:0/00363291-a:0/00363621-a:0/00363938-a:0/00364145-a:0/00705336-a:0/00805676-a:0/01148283-a:0/01265308-a:0/01361414-a:0/01363613-a:0/01366718-a:0/01367431-a:0/01367651-a:0/01664015-a:0/02459465-a:0
+tripulación tripulación NCFS000 08242799-n:0/08273167-n:0/08273406-n:0/08273736-n:0
+, , Fc 
+bajo bajo SP 
+el el DA0MS0 
+sol sol NCMS000 06868844-n:0/09280995-n:0/09450163-n:0/09450454-n:0/09561593-n:0/09849598-n:0/10674896-n:0/11485367-n:0/13680381-n:0/14590795-n:0
+que que PR0CN00 
+ya ya RG 00017639-r:0/00031798-r:0
+se se P00CN00 
+oculta ocultar VMIP3S0 01483247-v:0/02144835-v:0/02145271-v:0/02145543-v:0/02145814-v:0/02146790-v:0/02147109-v:0/02148369-v:0
+! ! Fat 
+
++coor-sadv_[
+  +(Y y CC)
+  sadv_[
+    +(ahora ahora RG)
+  ]
+  Fc_[
+    +(, , Fc)
+  ]
+  grup-verb_[
+    subord_[
+      +(que que CS)
+      grup-verb_[
+        sn_[
+          espec-ms_[
+            +j-ms_[
+              +(el el DA0MS0)
+            ]
+          ]
+          +grup-nom-ms_[
+            +n-ms_[
+              +(relato relato NCMS000)
+            ]
+          ]
+        ]
+        +verb_[
+          +(toca tocar VMIP3S0)
+        ]
+        grup-sp_[
+          +prep_[
+            +(a a SP)
+          ]
+          sn_[
+            espec-ms_[
+              +pos-ms_[
+                +(su su DP3CSN)
+              ]
+            ]
+            +grup-nom-ms_[
+              +n-ms_[
+                +(fin fin NCMS000)
+              ]
+            ]
+          ]
+        ]
+      ]
+      Fc_[
+        +(, , Fc)
+      ]
+    ]
+    sadv_[
+      +(también también RG)
+    ]
+    sn_[
+      espec-ms_[
+        +j-ms_[
+          +(el el DA0MS0)
+        ]
+      ]
+      +grup-nom-ms_[
+        +n-ms_[
+          +(timón timón NCMS000)
+        ]
+      ]
+      sp-de_[
+        +(de de SP)
+        sn_[
+          espec-fs_[
+            +j-fs_[
+              +(la el DA0FS0)
+            ]
+          ]
+          +grup-nom-fs_[
+            +n-fs_[
+              +(barca barca NCFS000)
+            ]
+          ]
+        ]
+      ]
+    ]
+    patons_[
+      +paton-p_[
+        +(nos nos PP1CP00)
+      ]
+    ]
+    +grup-verb_[
+      +verb_[
+        +(vuelve volver VMIP3S0)
+      ]
+    ]
+    grup-sp_[
+      +prep_[
+        +(a a SP)
+      ]
+      sn_[
+        espec-ms_[
+          +j-ms_[
+            +(el el DA0MS0)
+          ]
+        ]
+        +grup-nom-ms_[
+          +n-ms_[
+            +(hogar hogar NCMS000)
+          ]
+        ]
+      ]
+    ]
+    Fc_[
+      +(, , Fc)
+    ]
+    sn_[
+      F-no-c_[
+        +(¡ ¡ Faa)
+      ]
+      espec-fs_[
+        +indef-fs_[
+          +(una uno DI0FS0)
+        ]
+      ]
+      +grup-nom-fs_[
+        s-a-fs_[
+          +a-fs_[
+            +(alegre alegre AQ0CS00)
+          ]
+        ]
+        +grup-nom-fs_[
+          +n-fs_[
+            +(tripulación tripulación NCFS000)
+          ]
+        ]
+      ]
+      Fc_[
+        +(, , Fc)
+      ]
+    ]
+    grup-sp_[
+      +prep_[
+        +(bajo bajo SP)
+      ]
+      sn_[
+        espec-ms_[
+          +j-ms_[
+            +(el el DA0MS0)
+          ]
+        ]
+        +grup-nom-ms_[
+          +n-ms_[
+            +(sol sol NCMS000)
+          ]
+        ]
+        relativa_[
+          relatiu-sn_[
+            +(que que PR0CN00)
+          ]
+          sadv_[
+            +(ya ya RG)
+          ]
+          morfema-verbal_[
+            +(se se P00CN00)
+          ]
+          +grup-verb_[
+            +verb_[
+              +(oculta ocultar VMIP3S0)
+            ]
+          ]
+          F-term_[
+            +(! ! Fat)
+          ]
+        ]
+      ]
+    ]
+  ]
+]
+coor-sadv/top/(Y y CC) [
+  sadv/coor/(ahora ahora RG)
+  Fc/punc/(, , Fc)
+  grup-verb/modnomatch/(vuelve volver VMIP3S0) [
+    patons/mphes/(nos nos PP1CP00)
+    subord/subj/(que que CS) [
+      grup-verb/comp/(toca tocar VMIP3S0) [
+        sn/subj/(relato relato NCMS000) [
+          espec-ms/spec/(el el DA0MS0)
+        ]
+        grup-sp/adjt/(a a SP) [
+          sn/comp/(fin fin NCMS000) [
+            espec-ms/spec/(su su DP3CSN)
+          ]
+        ]
+      ]
+      Fc/punc/(, , Fc)
+    ]
+    sadv/adjt/(también también RG)
+    sn/modnomatch/(timón timón NCMS000) [
+      espec-ms/spec/(el el DA0MS0)
+      sp-de/mod/(de de SP) [
+        sn/comp/(barca barca NCFS000) [
+          espec-fs/spec/(la el DA0FS0)
+        ]
+      ]
+    ]
+    grup-sp/pobj/(a a SP) [
+      sn/comp/(hogar hogar NCMS000) [
+        espec-ms/spec/(el el DA0MS0)
+      ]
+    ]
+    Fc/punc/(, , Fc)
+    sn/dobj/(tripulación tripulación NCFS000) [
+      espec-fs/spec/(una uno DI0FS0)
+      s-a-fs/mod/(alegre alegre AQ0CS00)
+      F-no-c/punc/(¡ ¡ Faa)
+      Fc/punc/(, , Fc)
+    ]
+    grup-sp/pobj/(bajo bajo SP) [
+      sn/comp/(sol sol NCMS000) [
+        espec-ms/spec/(el el DA0MS0)
+        relativa/mod/(oculta ocultar VMIP3S0) [
+          morfema-verbal/mphes/(se se P00CN00)
+          relatiu-sn/subj/(que que PR0CN00)
+          sadv/adjt/(ya ya RG)
+          F-term/punc/(! ! Fat)
+        ]
+      ]
+    ]
+  ]
+]
+Alicia alicio NCFS000 
+, , Fc 
+para para SP 
+ti ti PP2CSO0 
+este este DD0MS0 
+cuento cuento NCMS000 06371999-n:0/06757057-n:0/07220773-n:0/07221939-n:0
+infantil infantil AQ0CS00 01492394-a:0/01492907-a:0/01493016-a:0/01648189-a:0/02272047-a:0/02748837-a:0
+. . Fp 
+
++sn_[
+  +grup-nom-fs_[
+    +n-fs_[
+      +(Alicia alicio NCFS000)
+    ]
+  ]
+  Fc_[
+    +(, , Fc)
+  ]
+  grup-sp_[
+    +prep_[
+      +(para para SP)
+    ]
+    ptonic_[
+      +(ti ti PP2CSO0)
+    ]
+  ]
+  sn_[
+    espec-ms_[
+      +dem-ms_[
+        +(este este DD0MS0)
+      ]
+    ]
+    +grup-nom-ms_[
+      +n-ms_[
+        +(cuento cuento NCMS000)
+      ]
+      s-a-ms_[
+        +a-ms_[
+          +(infantil infantil AQ0CS00)
+        ]
+      ]
+    ]
+    F-term_[
+      +(. . Fp)
+    ]
+  ]
+]
+sn/top/(Alicia alicio NCFS000) [
+  Fc/punc/(, , Fc)
+  grup-sp/mod/(para para SP) [
+    ptonic/comp/(ti ti PP2CSO0)
+  ]
+  sn/mod/(cuento cuento NCMS000) [
+    espec-ms/spec/(este este DD0MS0)
+    s-a-ms/mod/(infantil infantil AQ0CS00)
+    F-term/punc/(. . Fp)
+  ]
+]
+Pon poner VMM02S0 00120796-v:0/00187526-v:0/00665476-v:0/00735571-v:0/00745970-v:0/01049276-v:0/01160370-v:0/01290133-v:0/01355906-v:0/01493741-v:0/01494310-v:0/01530273-v:0/01544692-v:0/01545079-v:0/01545208-v:0/01546768-v:0/01567275-v:0/01591621-v:0/01607445-v:0/01628899-v:0/01649809-v:0/01665185-v:0/01717169-v:0/01970646-v:0/02384041-v:0
+lo lo PP3MSA0 
+con con SP 
+tu tu DP2CSS 
+mano mano NCFS000 00712225-n:0/02439568-n:0/03058107-n:0/05564590-n:0/05677340-n:0/07956887-n:0/08650157-n:0
+pequeña pequeño AQ0FS00 00882580-a:0/01280908-a:0/01391351-a:0/01392249-a:0/01415219-a:0/01473353-a:0/01532912-a:0/01554510-a:0/01649031-a:0/02340458-a:0
+y y CC 
+amable amable AQ0CS00 00020787-a:0/00177834-a:0/00639230-a:0/01041209-a:0/01075178-a:0/01076024-a:0/01134232-a:0/01372049-a:0/01459422-a:0/01464700-a:0
+donde donde PR00000 
+descansan descansar VMIP3P0 00014405-v:0/00117985-v:0/00779601-v:0/01502946-v:0/01543731-v:0/01545883-v:0/01548072-v:0/01610101-v:0/02663643-v:0/02664664-v:0
+los el DA0MP0 
+cuentos cuento NCMP000 06371999-n:0/06757057-n:0/07220773-n:0/07221939-n:0
+infantiles infantil AQ0CP00 01492394-a:0/01492907-a:0/01493016-a:0/01648189-a:0/02272047-a:0/02748837-a:0
+, , Fc 
+entrelazados entrelazar VMP00PM 00405079-v:0/01517662-v:0/01518924-v:0/01606736-v:0/01673472-v:0/01674544-v:0/02006798-a:0
+, , Fc 
+como como CS 
+las el DA0FP0 
+flores flor NCFP000 11669335-n:0/11669921-n:0/12609379-n:0/15295045-n:0
+ya ya RG 00017639-r:0/00031798-r:0
+marchitas marchito AQ0FP00 01070002-a:0/01489454-a:0/02553234-a:0
+en en SP 
+la el DA0FS0 
+guirnalda guirnalda NCFS000 04606014-n:0
+de de SP 
+la el DA0FS0 
+memoria memoria NCFS000 03744276-n:0/05651399-n:0/05760202-n:0/05935060-n:0/06409085-n:0/06410187-n:0/06506191-n:0/06516495-n:0/07218470-n:0
+. . Fp 
+
++grup-verb_[
+  +grup-verb_[
+    +verb_[
+      +(Pon poner VMM02S0)
+    ]
+  ]
+  patons_[
+    +paton-ms_[
+      +(lo lo PP3MSA0)
+    ]
+  ]
+  grup-sp_[
+    +prep_[
+      +(con con SP)
+    ]
+    sn_[
+      espec-fs_[
+        +pos-fs_[
+          +(tu tu DP2CSS)
+        ]
+      ]
+      +grup-nom-fs_[
+        +n-fs_[
+          +(mano mano NCFS000)
+        ]
+        s-a-fs_[
+          +a-fs_[
+            +(pequeña pequeño AQ0FS00)
+          ]
+        ]
+      ]
+    ]
+  ]
+  coor-sa_[
+    +(y y CC)
+    s-adj_[
+      +s-a-ms_[
+        +a-ms_[
+          +(amable amable AQ0CS00)
+        ]
+      ]
+    ]
+  ]
+  relativa_[
+    relatiu-sn_[
+      +(donde donde PR00000)
+    ]
+    +verb_[
+      +(descansan descansar VMIP3P0)
+    ]
+    sn_[
+      espec-mp_[
+        +j-mp_[
+          +(los el DA0MP0)
+        ]
+      ]
+      +grup-nom-mp_[
+        +n-mp_[
+          +(cuentos cuento NCMP000)
+        ]
+        s-a-mp_[
+          +a-mp_[
+            +(infantiles infantil AQ0CP00)
+          ]
+        ]
+      ]
+    ]
+    Fc_[
+      +(, , Fc)
+    ]
+  ]
+  subord-part_[
+    +parti-mp_[
+      +(entrelazados entrelazar VMP00PM)
+    ]
+  ]
+  Fc_[
+    +(, , Fc)
+  ]
+  grup-sp_[
+    +prep_[
+      +(como como CS)
+    ]
+    sn_[
+      espec-fp_[
+        +j-fp_[
+          +(las el DA0FP0)
+        ]
+      ]
+      +grup-nom-fp_[
+        +n-fp_[
+          +(flores flor NCFP000)
+        ]
+      ]
+    ]
+  ]
+  s-adj_[
+    sadv_[
+      +(ya ya RG)
+    ]
+    +s-a-fp_[
+      +a-fp_[
+        +(marchitas marchito AQ0FP00)
+      ]
+    ]
+  ]
+  grup-sp_[
+    +prep_[
+      +(en en SP)
+    ]
+    sn_[
+      espec-fs_[
+        +j-fs_[
+          +(la el DA0FS0)
+        ]
+      ]
+      +grup-nom-fs_[
+        +n-fs_[
+          +(guirnalda guirnalda NCFS000)
+        ]
+      ]
+      sp-de_[
+        +(de de SP)
+        sn_[
+          espec-fs_[
+            +j-fs_[
+              +(la el DA0FS0)
+            ]
+          ]
+          +grup-nom-fs_[
+            +n-fs_[
+              +(memoria memoria NCFS000)
+            ]
+          ]
+        ]
+        F-term_[
+          +(. . Fp)
+        ]
+      ]
+    ]
+  ]
+]
+grup-verb/top/(Pon poner VMM02S0) [
+  patons/dobj/(lo lo PP3MSA0)
+  grup-sp/adjt/(con con SP) [
+    sn/comp/(mano mano NCFS000) [
+      espec-fs/spec/(tu tu DP2CSS)
+      s-a-fs/mod/(pequeña pequeño AQ0FS00)
+    ]
+  ]
+  coor-sa/pred/(y y CC) [
+    s-adj/coor/(amable amable AQ0CS00)
+  ]
+  relativa/modnomatch/(descansan descansar VMIP3P0) [
+    relatiu-sn/adjt/(donde donde PR00000)
+    sn/dobj/(cuentos cuento NCMP000) [
+      espec-mp/spec/(los el DA0MP0)
+      s-a-mp/mod/(infantiles infantil AQ0CP00)
+    ]
+    Fc/punc/(, , Fc)
+  ]
+  subord-part/pred/(entrelazados entrelazar VMP00PM)
+  Fc/punc/(, , Fc)
+  grup-sp/pobj/(como como CS) [
+    sn/comp/(flores flor NCFP000) [
+      espec-fp/spec/(las el DA0FP0)
+    ]
+  ]
+  s-adj/pred/(marchitas marchito AQ0FP00) [
+    sadv/spec/(ya ya RG)
+  ]
+  grup-sp/pobj/(en en SP) [
+    sn/comp/(guirnalda guirnalda NCFS000) [
+      espec-fs/spec/(la el DA0FS0)
+      sp-de/mod/(de de SP) [
+        sn/comp/(memoria memoria NCFS000) [
+          espec-fs/spec/(la el DA0FS0)
+        ]
+        F-term/punc/(. . Fp)
+      ]
+    ]
+  ]
+]
+Es ser VSIP3S0 02445925-v:0/02603699-v:0/02604760-v:0/02616386-v:0/02620587-v:0/02664769-v:0/02745332-v:0/02749904-v:0
+la el DA0FS0 
+ofrenda ofrenda NCFS000 13270373-n:0
+de de SP 
+un uno DI0MS0 
+peregrino peregrino NCMS000 10432441-n:0/10432532-n:0/10771392-n:0
+que que PR0CN00 
+las lo PP3FPA0 
+recogió recoger VMIS3S0 00181664-v:0/01082454-v:0/01207402-v:0/01214786-v:0/01380638-v:0/01540844-v:0/01686827-v:0/01976089-v:0/02218173-v:0/02218443-v:0/02304982-v:0/02305586-v:0/02598143-v:0
+en en SP 
+países país NCMP000 08166552-n:0/08168978-n:0/08303692-n:0/08490199-n:0/08544813-n:0/08552138-n:0/08644722-n:0/08654360-n:0
+lejanos lejano AQ0MP00 00442361-a:0/00442917-a:0/00443075-a:0/00443274-a:0/00450606-a:0/01434717-a:0
+. . Fp 
+
++grup-verb_[
+  +verb_[
+    +(Es ser VSIP3S0)
+  ]
+  sn_[
+    espec-fs_[
+      +j-fs_[
+        +(la el DA0FS0)
+      ]
+    ]
+    +grup-nom-fs_[
+      +n-fs_[
+        +(ofrenda ofrenda NCFS000)
+      ]
+    ]
+    sp-de_[
+      +(de de SP)
+      sn_[
+        espec-ms_[
+          +indef-ms_[
+            +(un uno DI0MS0)
+          ]
+        ]
+        +grup-nom-ms_[
+          +n-ms_[
+            +(peregrino peregrino NCMS000)
+          ]
+        ]
+      ]
+    ]
+    relativa_[
+      relatiu-sn_[
+        +(que que PR0CN00)
+      ]
+      patons_[
+        +paton-fp_[
+          +(las lo PP3FPA0)
+        ]
+      ]
+      +grup-verb_[
+        +verb_[
+          +(recogió recoger VMIS3S0)
+        ]
+      ]
+      grup-sp_[
+        +prep_[
+          +(en en SP)
+        ]
+        sn_[
+          +grup-nom-mp_[
+            +n-mp_[
+              +(países país NCMP000)
+            ]
+            s-a-mp_[
+              +a-mp_[
+                +(lejanos lejano AQ0MP00)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp)
+  ]
+]
+grup-verb/top/(Es ser VSIP3S0) [
+  sn/attr/(ofrenda ofrenda NCFS000) [
+    espec-fs/spec/(la el DA0FS0)
+    sp-de/mod/(de de SP) [
+      sn/comp/(peregrino peregrino NCMS000) [
+        espec-ms/spec/(un uno DI0MS0)
+      ]
+    ]
+    relativa/mod/(recogió recoger VMIS3S0) [
+      patons/dobj/(las lo PP3FPA0)
+      relatiu-sn/subj/(que que PR0CN00)
+      grup-sp/adjt/(en en SP) [
+        sn/comp/(países país NCMP000) [
+          s-a-mp/mod/(lejanos lejano AQ0MP00)
+        ]
+      ]
+    ]
+  ]
+  F-term/punc/(. . Fp)
+]
